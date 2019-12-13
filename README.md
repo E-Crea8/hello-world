@@ -1,2 +1,3 @@
 # hello-world
-Creating my first hello world repository project on github
+I am Emmanuel Oluwaseyi. I am a Backend Developer.
+I Love be a Software Developer
